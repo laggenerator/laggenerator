@@ -1,6 +1,6 @@
 ### What's poppin?
 🌱 I’m currently learning C++.
-⚡ Student of ![Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in IT Automation Systems
+⚡ Student of [Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in IT Automation Systems.
 
 
 <!--
