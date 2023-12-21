@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's poppin?
 🌱 I’m currently learning C++.
 
 
