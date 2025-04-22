@@ -1,5 +1,5 @@
 ### What's poppin?
-🌱 I’m currently learning C++. \
+🌱 I'm working on embedded software projects. \
 ⚡ Student of [Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in IT Automation Systems.
 
 
